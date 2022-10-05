@@ -1,0 +1,42 @@
+{
+    "sponsors": [
+        {
+            "name": "BPLust IT",
+            "image": "https://avatars1.githubusercontent.com/u/846063?v=4?s=60",
+            "link": "https://github.com/bplusitbr"
+        }
+    ],
+    "technologies": {
+        "GOLang": "golang",
+        "Shell": "shell"
+    },
+    "repositories": [
+        {
+            "name": "TSE2022",
+            "link": "./tse2022",
+            "label": "tse2022",
+            "technologies": [
+                "GOLang"
+            ],
+            "description": "TSmall program that collects data from Tribunal Superior Eleitoral of Brazil and print the results."
+        },
+        {
+            "name": "Shell",
+            "link": "./shell",
+            "label": "shell",
+            "technologies": [
+                "Shell"
+            ],
+            "description": "Shell scripts that has a lot of stuffs to help daily dev taks"
+        },
+        {
+            "name": "Hack",
+            "link": "./hack",
+            "label": "hack",
+            "technologies": [
+                "GOLang"
+            ],
+            "description": "Example os GO Routines that send requests to an URL"
+        }
+    ]
+}
