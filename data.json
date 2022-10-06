@@ -1,14 +1,15 @@
 {
     "sponsors": [
         {
-            "name": "BPLust IT",
+            "name": "BPLust IT.br",
             "image": "https://avatars1.githubusercontent.com/u/846063?v=4?s=60",
             "link": "https://github.com/bplusitbr"
         }
     ],
     "technologies": {
         "GOLang": "golang",
-        "Shell": "shell"
+        "Shell": "shell",
+        "Algorithm": "algorithm"
     },
     "repositories": [
         {
@@ -36,7 +37,25 @@
             "technologies": [
                 "GOLang"
             ],
-            "description": "Example os GO Routines that send requests to an URL"
+            "description": "Example of GO Routines that send requests to an URL"
+        },
+        {
+            "name": "OAUTH",
+            "link": "./oauth_test",
+            "label": "oauth",
+            "technologies": [
+                "GOLang"
+            ],
+            "description": "Example of how to integrate with OAUTH."
+        },
+        {
+            "name": "Algorithm",
+            "link": "./algorithm",
+            "label": "algorithm",
+            "technologies": [
+                "GOLang"
+            ],
+            "description": "Study of algorithms using GOLang."
         }
     ]
 }
