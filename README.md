@@ -13,7 +13,9 @@ The main objective of this repository it is to concentrate a lot of stuff about 
 
 ## GOLang
 
-- [Hack](./hack) _(label: hack)_ <br> Example os GO Routines that send requests to an URL
+- [Algorithm](./algorithm) _(label: algorithm)_ <br> Study of algorithms using GOLang.
+- [Hack](./hack) _(label: hack)_ <br> Example of GO Routines that send requests to an URL
+- [OAUTH](./oauth_test) _(label: oauth)_ <br> Example of how to integrate with OAUTH.
 - [TSE2022](./tse2022) _(label: tse2022)_ <br> TSmall program that collects data from Tribunal Superior Eleitoral of Brazil and print the results.
 
 ## Shell
@@ -23,4 +25,4 @@ The main objective of this repository it is to concentrate a lot of stuff about 
 
 ## Thanks to GitHub Sponsors
 
-<table><tr><td align="center"><a href="https://github.com/bplusitbr"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>BPLust IT</b></sub></a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/bplusitbr"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>BPLust IT.br</b></sub></a></td></tr></table>
